@@ -1,1 +1,2 @@
 git push- pushes new stuff to github remote.
+git rebase is the same as git merge but with less clutter
